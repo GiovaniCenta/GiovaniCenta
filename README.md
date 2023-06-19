@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Giovani :)</h1>
-<h3 align="center">An Artificial Intelligence enthusiast and researcher</h3>
+<h1 align="center">Hi , I'm Giovani :)</h1>
+<h3 align="center">An Computer Engineering student and Artificial Intelligence enthusiast and researcher</h3>
 
-- 🔭 I’m currently working on **COMA Reinforcement Learning Traffic Project**
+- 🔭 I’m currently working on **COMA  - Reinforcement Learning Traffic Project**, in this project I deal with Multi-Objective Reinforcement Learning for traffic lights problems
 
-- 👯 I’m a Computer Engineering Student at **UFRGS - Universidade Federal do Rio Grande do Sul**
+- 👯 I’m a Computer Engineering Student at **UFRGS - Universidade Federal do Rio Grande do Sul** currently in the nineth semester
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
