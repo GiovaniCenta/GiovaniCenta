@@ -1,9 +1,11 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Giovani :)</h1>
-<h3 align="center">An Artificial Intelligence enthusiast and researcher</h3>
+
+<h1 align="center">Hi, I'm Giovani :)</h1>
+<h3 align="center">An Artificial Intelligence enthusiast and researcher from Brazil</h3>
 
 - 🔭 I’m currently working on **COMA Reinforcement Learning Traffic Project**
+- 🔭 I'm a computer engineering student in Universidade Federal do Rio Grande do Sul - UFRGS
+- 👋 Big fan of AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
