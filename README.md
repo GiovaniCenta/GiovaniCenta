@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **COMA  - Reinforcement Learning Traffic Project**, in this project I deal with Multi-Objective Reinforcement Learning for traffic lights problems
 
-- 👯 I’m a Computer Engineering Student at **UFRGS - Universidade Federal do Rio Grande do Sul** currently in the nineth semester
+- 👯 I’m a Computer Engineer and Master's student in AI 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
