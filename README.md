@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Giovani :)</h1>
 <h3 align="center">An Computer Engineering student and Artificial Intelligence enthusiast and researcher</h3>
 
-- 🔭 I’m currently working on **COMA  - Reinforcement Learning Traffic Project**, in this project I deal with Multi-Objective Reinforcement Learning for traffic lights problems
-
+- 🔭 I have worked on **COMA  - Reinforcement Learning Traffic Project**, in this project I dealt with Multi-Objective Reinforcement Learning for traffic light problems
+- 🔭 I am currently working in Woopi Stefanini as an AI Researcher
 - 👯 I’m a Computer Engineer and Master's student in AI 
 
 <h3 align="left">Connect with me:</h3>
