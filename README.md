@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Giovani :)</h1>
-<h3 align="center">An Master's student in AI</h3>
+<h3 align="center">A Master's student in AI</h3>
 
 - 🔭 I have worked on **COMA  - Reinforcement Learning Traffic Project**, in this project I dealt with Multi-Objective Reinforcement Learning for traffic light problems
 - 🔭 I am currently working in Woopi Stefanini as an AI Researcher working with NLP and classification models
