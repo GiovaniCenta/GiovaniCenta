@@ -39,9 +39,9 @@ I am a **Data Scientist** and **AI Engineer** passionate about building scalable
 <br/>
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanicenta&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanicenta&show_icons=true&theme=dracula&layout=compact&hide_border=true&langs_count=6"/>
+  <img src="https://github.com/giovanicenta/giovanicenta/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 <div align="center">
