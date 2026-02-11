@@ -39,7 +39,6 @@ I am a **Data Scientist** and **AI Engineer** passionate about building scalable
 <br/>
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 <div align="center">
   <img src="https://github.com/giovanicenta/giovanicenta/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
